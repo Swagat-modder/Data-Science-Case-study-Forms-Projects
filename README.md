@@ -1,1 +1,1 @@
-Data Science Practce projects every week
+Data Science Practice projects every week

@@ -61,6 +61,3 @@ The project uses a dataset (`loan-recovery.csv`) with the following key features
 - Quantify recovery costs for each method and optimize using cost-benefit analysis.
 - Add visualizations (e.g., recovery rate by method) for stakeholder insights.
 - Incorporate dynamic risk thresholds to adapt to changing borrower behavior.
-
-## License
-This project is licensed under the MIT License.
